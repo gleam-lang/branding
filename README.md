@@ -1,1 +1,3 @@
-# branding
+# Gleam Branding
+
+Lucy and more!
